@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_axn_big.png?token=AS6LDRIMOCLNDCDL3XSFIBDAGQA5S" group-title="Gen Entertainment",509 AXN
+rtp://@239.1.1.137:8796
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/tes/main/logo/logo-sctv-big1.png" group-title="Gen Entertainment",666 SCTV
+rtp://@239.1.1.137:8796
