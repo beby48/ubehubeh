@@ -67,7 +67,7 @@ rtp://@239.1.1.6:8010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_antara_big1.png" group-title="Local Channel",124 Antara
 rtp://@239.1.1.128:9218
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_intv_big1.png" group-title="Local Channel",125 MYTV
-rtp://@239.1.1.162:8946
+#rtp://@239.1.1.162:8946
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-rchannel-big1.png" group-title="Local Channel",126 R Channel
 rtp://@239.1.2.86:8304
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvedukasi_big1.png" group-title="Local Channel",127 TV Edukasi
@@ -448,7 +448,7 @@ rtp://@239.1.2.211:9202
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/foxcrime.png" group-title="HD Channel",956 FOX Crime HD
 rtp://@239.1.2.225:9318
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/fx.png" group-title="HD Channel",957 FX HD
-rtp://@239.1.2.227:9324
+#rtp://@239.1.2.227:9324
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/kbsworld.png" group-title="HD Channel",958 KBS World HD
 rtp://@239.1.1.13:8052
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_wakuwaku_big.png" group-title="HD Channel",959 WakuWaku Japan HD
@@ -606,7 +606,7 @@ rtp://@239.1.2.211:9202
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/foxcrime.png" group-title="Gen Entertainment",956 FOX Crime HD
 rtp://@239.1.2.225:9318
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/fx.png" group-title="Gen Entertainment",957 FX HD
-rtp://@239.1.2.227:9324
+#rtp://@239.1.2.227:9324
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/kbsworld.png" group-title="Gen Entertainment",958 KBS World HD
 rtp://@239.1.1.13:8052
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_wakuwaku_big.png" group-title="Gen Entertainment",959 WakuWaku Japan HD
