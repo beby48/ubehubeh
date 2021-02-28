@@ -387,7 +387,9 @@ rtp://@239.1.1.207:9216
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_history_big.png" group-title="HD Channel",922 History Channel HD
 rtp://@239.1.1.23:8112
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_galaxy_big1.png" group-title="HD Channel",923 Galaxy HD
-rtp://@239.1.1.136:8790
+rtp://@239.1.1.136:8790
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cgtndocumentary_big1.png" group-title="HD Channel",924 CGTN Documentary HD
 rtp://@239.1.2.4:7998
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemaworld.png" group-title="HD Channel",925 Cinema World HD
@@ -397,7 +399,8 @@ rtp://@239.1.2.100:9518
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_discovery_big.png" group-title="HD Channel",927 Discovery Channel HD
 rtp://@239.1.2.78:7984
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_aniplus_big1.png" group-title="HD Channel",929 Aniplus HD
-rtp://@239.1.2.104:9526
+rtp://@239.1.2.104:9526
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/disneychannel.png" group-title="HD Channel",930 Disney Channel HD
 rtp://@239.1.1.201:9180
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/disneyjunior.png" group-title="HD Channel",931 Disney Junior HD
@@ -558,7 +561,9 @@ rtp://@239.1.1.207:9216
 rtp://@239.1.1.23:8112
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_galaxy_big1.png" group-title="Movie",923 Galaxy HD
-rtp://@239.1.1.136:8790
+rtp://@239.1.1.136:8790
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cgtndocumentary_big1.png" group-title="Knowledge",924 CGTN Documentary HD
 rtp://@239.1.2.4:7998
@@ -667,3 +672,21 @@ rtp://@239.1.1.237:9396
 rtp://@239.1.1.211:9240
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/foxactionmovies.png" group-title="Movie",999 Fox Action Movie HD
 rtp://@239.1.1.190:9116
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinema1.png" group-title="Cinema",51 CINEMA 01
+rtp://239.1.1.109:8628
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinema2.png" group-title="Cinema",52 CINEMA 02
+rtp://239.1.2.208:9202
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinema3.png" group-title="Cinema",53 CINEMA 03
+rtp://239.1.1.9:8028
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinema4.png" group-title="Cinema",54 CINEMA 04
+rtp://239.1.1.10:8034
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinema5.png" group-title="Cinema",55 CINEMA 05
+rtp://239.1.2.31:8160
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinema6.png" group-title="Cinema",56 CINEMA 06
+rtp://239.1.2.33:8172
