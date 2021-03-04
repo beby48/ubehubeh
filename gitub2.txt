@@ -69,9 +69,11 @@ rtp://@239.1.1.128:9218
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_intv_big1.png" group-title="Local Channel",125 MYTV
 #rtp://@239.1.1.162:8946
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-rchannel-big1.png" group-title="Local Channel",126 R Channel
-rtp://@239.1.2.86:8304
+#rtp://@239.1.2.86:8304
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvedukasi_big1.png" group-title="Local Channel",127 TV Edukasi
 rtp://@239.1.1.39:8208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nusantaratv_big.png" group-title="Local Channel",128 Nusantara TV
+rtp://@239.1.2.102:9522
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rri_big1.png" group-title="Local Channel",130 RRI Net
 rtp://@239.1.2.74:8420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_jitv_big.png" group-title="Local Channel",131 JITV
@@ -407,6 +409,10 @@ rtp://@239.1.1.201:9180
 rtp://@239.1.2.75:8426
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dreamworks_big1.png" group-title="HD Channel",932 DreamWork HD
 rtp://@239.1.1.234:9222
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cartoonnetwork_big.png" group-title="HD Channel",933 Cartoon Network HD
+rtp://@239.1.2.81:8083
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_boomerang_big.png" group-title="HD Channel",934 BOOMERANG HD
+rtp://@239.1.1.163:8084
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbo.png" group-title="Dolby HD",935 HBO Dolby HD
 rtp://@239.1.2.114:9428
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbosignature.png" group-title="Dolby HD",936 HBO Signature Dolby HD
@@ -427,6 +433,8 @@ rtp://@239.1.2.235:9342
 rtp://@239.1.2.13:8052
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sone_big.png" group-title="HD Channel",945 ONE HD
 rtp://@239.1.2.26:8130
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sgem_big.png" group-title="HD Channel",946 GEM HD
+rtp://@239.1.2.18:8082
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fashionone_big1.png" group-title="HD Channel",947 Fashion One HD
 rtp://@239.1.1.14:8058
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/mtvlive.png" group-title="HD Channel",948 MTV Live HD
@@ -583,9 +591,18 @@ rtp://@239.1.1.201:9180
 rtp://@239.1.2.75:8426
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dreamworks_big1.png" group-title="Kids",932 DreamWork HD
 rtp://@239.1.1.234:9222
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cartoonnetwork_big.png" group-title="Kids",933 Cartoon Network HD
+rtp://@239.1.2.81:8083
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_boomerang_big.png" group-title="Kids",934 BOOMERANG HD
+rtp://@239.1.1.163:8084
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/vchannel.png" group-title="Music",942 Channel [V] HD
 rtp://@239.1.2.235:9342
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sgem_big.png" group-title="Gen Entertainment",946 GEM HD
+rtp://@239.1.2.18:8082
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/mtvlive.png" group-title="Music",948 MTV Live HD
 rtp://@239.1.2.16:8070
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ikonser_big.png" group-title="Music",949 i Konser HD
