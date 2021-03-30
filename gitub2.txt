@@ -124,8 +124,8 @@ rtp://@239.1.1.139:8808
 rtp://@239.1.1.157:8916
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_duniaanak_big1.png" group-title="Kids",312 Dunia Anak
 rtp://@239.1.1.7:8016
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/kakutv.png" group-title="Kids",313 Kaku TV
-rtp://@239.1.1.214:9514
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mykids_big.png" group-title="Kids",313 MY KIDZ
+rtp://239.1.1.254:9338
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spacetoonplus_big1.png" group-title="Kids",314 Spacetoon
 #rtp://@239.1.1.254:9338
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_horee_big.png" group-title="Kids",315 Horee!
