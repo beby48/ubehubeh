@@ -116,8 +116,8 @@ rtp://@239.1.1.159:8928
 rtp://@239.1.1.123:8712
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_boomerang_big.png" group-title="Kids",308 Boomerang
 rtp://@239.1.1.73:8412
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_duck_big1.png" group-title="Kids",309 Duck TV
-rtp://@239.1.1.63:8352
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_duck_big1.png" group-title="Kids",309 Duck TV
+#rtp://@239.1.1.63:8352
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dreamworks_big1.png" group-title="Kids",310 Dream Work
 rtp://@239.1.1.139:8808
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_babyfirst_big1.png" group-title="Kids",311 Baby First
@@ -141,8 +141,8 @@ rtp://@239.1.1.229:9350
 rtp://@239.1.1.79:8448
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeopeople_big.png" group-title="Lifestyle",405 Natgeo People
 rtp://@239.1.1.67:8376
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fashionone_big1.png" group-title="Lifestyle",408 Fashion One
-rtp://@239.1.1.127:8736
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fashionone_big1.png" group-title="Lifestyle",408 Fashion One
+#rtp://@239.1.1.127:8736
 
 ==
 
@@ -435,8 +435,8 @@ rtp://@239.1.2.13:8052
 rtp://@239.1.2.26:8130
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_sgem_big.png" group-title="HD Channel",946 GEM HD
 rtp://@239.1.2.18:8082
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fashionone_big1.png" group-title="HD Channel",947 Fashion One HD
-rtp://@239.1.1.14:8058
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fashionone_big1.png" group-title="HD Channel",947 Fashion One HD
+#rtp://@239.1.1.14:8058
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/mtvlive.png" group-title="HD Channel",948 MTV Live HD
 rtp://@239.1.2.16:8070
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ikonser_big.png" group-title="HD Channel",949 i Konser HD
