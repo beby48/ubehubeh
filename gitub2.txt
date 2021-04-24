@@ -233,13 +233,15 @@ rtp://@239.1.2.10:8306
 ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbo.png" group-title="Movie",601 HBO
-rtp://@239.1.1.95:8544
+#rtp://@239.1.1.95:8544
+rtp://@239.1.1.203:9192
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbosignature.png" group-title="Movie",602 HBO Signature
 rtp://@239.1.1.93:8532
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemax.png" group-title="Movie",603 Cinemax
 rtp://@239.1.1.87:8496
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbohits.png" group-title="Movie",604 HBO Hits
-rtp://@239.1.1.91:8520
+#rtp://@239.1.1.91:8520
+rtp://@239.1.1.215:9264
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbofamily.png" group-title="Movie",605 HBO Family
 rtp://@239.1.1.89:8508
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/foxmovies.png" group-title="Movie",607 Fox Movie
