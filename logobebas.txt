@@ -74,10 +74,12 @@ rtp://@239.1.1.128:9218
 rtp://@239.1.1.39:8208
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nusantaratv_big.png" group-title="Local Channel",128 Nusantara TV
 rtp://@239.1.2.102:9522
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_inews_big.png" group-title="Local Channel",129 iNews
+rtp://@239.1.1.212:8967
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_rri_big1.png" group-title="Local Channel",130 RRI Net
 rtp://@239.1.2.74:8420
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jitv_big.png" group-title="Local Channel",131 JITV
-rtp://@239.1.1.238:9400
+##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jitv_big.png" group-title="Local Channel",131 JITV
+#rtp://@239.1.1.238:9400
 #EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel",137 Jowo
 rtp://@239.1.2.6:8000
 
@@ -141,8 +143,6 @@ rtp://@239.1.1.229:9350
 rtp://@239.1.1.79:8448
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeopeople_big.png" group-title="Lifestyle",405 Natgeo People
 rtp://@239.1.1.67:8376
-##EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fashionone_big1.png" group-title="Lifestyle",408 Fashion One
-#rtp://@239.1.1.127:8736
 
 ==
 
@@ -330,7 +330,8 @@ rtp://@239.1.2.118:9410
 rtp://@239.1.2.84:8296
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cnbcid_big.png" group-title="Gen Entertainment",811 CNBC Indonesia
 rtp://@239.1.2.92:9490
-
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_mncnews_big.png" group-title="Gen Entertainment",812 MNC News
+rtp://@239.1.1.146:7985
 ==
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_alquran_big1.png" group-title="Religious",850 AlQuran Karim
@@ -400,6 +401,8 @@ rtp://@239.1.2.80:8578
 rtp://@239.1.2.100:9518
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_discovery_big.png" group-title="HD Channel",927 Discovery Channel HD
 rtp://@239.1.2.78:7984
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_animax_big.png" group-title="HD Channel",928 Animax HD
+rtp://@239.1.1.142:8967
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="HD Channel",929 Aniplus HD
 rtp://@239.1.2.104:9526
 #EXTINF:-1 tvg-logo="http://i.ibb.co/HT1tRCH/disneychannel.png" group-title="HD Channel",930 Disney Channel HD
@@ -578,6 +581,9 @@ rtp://@239.1.2.100:9518
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_discovery_big.png" group-title="Knowledge",927 Discovery Channel HD
 rtp://@239.1.2.78:7984
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_animax_big.png" group-title="Gen Entertainment",928 Animax HD
+rtp://@239.1.1.142:8967
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_aniplus_big1.png" group-title="Gen Entertainment",929 Aniplus HD
 rtp://239.1.2.104:9526
