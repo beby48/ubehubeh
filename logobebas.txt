@@ -692,20 +692,20 @@ rtp://@239.1.1.211:9240
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHYS8sP/foxactionmovies.png" group-title="Movie",999 Fox Action Movie HD
 rtp://@239.1.1.190:9116
 
-#EXTINF:-1 group-title="Cinema",51 CINEMA 01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AriefFikri/logo/main/cinema1.png" group-title="Cinema",51 CINEMA 01
 rtp://239.1.1.109:8628
 
-#EXTINF:-1 group-title="Cinema",52 CINEMA 02
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AriefFikri/logo/main/cinema2.png" group-title="Cinema",52 CINEMA 02
 rtp://239.1.2.208:9202
 
-#EXTINF:-1 group-title="Cinema",53 CINEMA 03
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AriefFikri/logo/main/cinema3.png" group-title="Cinema",53 CINEMA 03
 rtp://239.1.1.9:8028
 
-#EXTINF:-1 group-title="Cinema",54 CINEMA 04
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AriefFikri/logo/main/cinema4.png" group-title="Cinema",54 CINEMA 04
 rtp://239.1.1.10:8034
 
-#EXTINF:-1 group-title="Cinema",55 CINEMA 05
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AriefFikri/logo/main/cinema5.png" group-title="Cinema",55 CINEMA 05
 rtp://239.1.2.31:8160
 
-#EXTINF:-1 group-title="Cinema",56 CINEMA 06
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AriefFikri/logo/main/cinema6.png" group-title="Cinema",56 CINEMA 06
 rtp://239.1.2.33:8172
