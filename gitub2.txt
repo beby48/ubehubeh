@@ -227,7 +227,7 @@ rtp://@239.1.2.196:9406
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_chinesedrama_big.png" group-title="Gen Entertainment",542 Chinese Drama
 rtp://@239.1.2.10:8306
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/TVBS_Asia.png" group-title="Gen Entertainment",543 TVBS Asia
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/TVBS_Asia.png" group-title="Gen Entertainment",543 TVBS Asia
 #rtp://@239.1.1.114:8658
 
 ==
