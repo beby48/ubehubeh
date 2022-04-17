@@ -1,3 +1,5 @@
+#17April2022
+
 #EXTM3U
 
 #EXTM3U
@@ -68,6 +70,10 @@ rtp://@239.1.1.72:8406
 rtp://@239.1.1.6:8010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_antara_big1.png" group-title="Local Channel",124 Antara
 rtp://@239.1.1.128:9218
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dramakorealbs_big.png" group-title="Gen Entertainment",126 Drama Korea LBS
+rtp://@239.1.2.101:9521
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvedukasi_big1.png" group-title="Local Channel",127 TV Edukasi
 rtp://@239.1.1.39:8208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nusantaratv_big.png" group-title="Local Channel",128 Nusantara TV
@@ -76,6 +82,8 @@ rtp://@239.1.2.102:9522
 rtp://@239.1.1.212:8967
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_rri_big1.png" group-title="Local Channel",130 RRI Net
 rtp://@239.1.2.74:8420
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_garudatv_big.png" group-title="Local Channel",133 Garuda TV
+rtp://@239.1.1.164:8965
 #EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel",137 Jowo
 rtp://@239.1.2.6:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_big.png" group-title="Local Channel",200 Indonesiana TV
@@ -227,6 +235,8 @@ rtp://@239.1.2.196:9406
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_chinesedrama_big.png" group-title="Gen Entertainment",542 Chinese Drama
 rtp://@239.1.2.10:8306
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/TVBS_Asia.png" group-title="Gen Entertainment",543 TVBS Asia
+rtp://@239.1.1.114:8658
 
 ==
 
@@ -279,16 +289,20 @@ rtp://@239.1.1.151:8880
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-bein1-big1.png" group-title="Sport",701 Bein1
 rtp://@239.1.1.217:9204
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-bein2-big1.png" group-title="Sport",702 Bein2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-bein3-big1.png" group-title="Sport",702 Bein3
 rtp://@239.1.1.221:9300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fight_big1.png" group-title="Sport",704 Fight Sport
 rtp://@239.1.1.177:9036
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_big.png" group-title="Sport",705 SPOTV
+rtp://@239.1.1.132:8761
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_big.png" group-title="Sport",706 SPOTV 2
+rtp://@239.1.1.198:9157
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_big1.png" group-title="Sport",708 NBA TV
 rtp://@239.1.1.49:8268
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_egg_big1.png" group-title="Sport",709 EGG
 rtp://@239.1.1.50:8274
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_golfplus_big1.png" group-title="Sport",711 Golf+
-rtp://@239.1.1.140:8814
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_golfplus_big1.png" group-title="Sport",711 Golf+
+#rtp://@239.1.1.140:8814
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-horizonsport_big.png" group-title="Sport",714 Horizon Sports
 rtp://@239.1.1.103:8592
 
@@ -318,7 +332,7 @@ rtp://@239.1.2.118:9410
 rtp://@239.1.2.84:8296
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcid_big.png" group-title="Gen Entertainment",811 CNBC Indonesia
 rtp://@239.1.2.92:9490
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mncnews_big.png" group-title="Gen Entertainment",812 MNC News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mncnews2_big.png" group-title="Gen Entertainment",812 MNC News
 rtp://@239.1.1.146:7985
 
 ==
@@ -477,16 +491,20 @@ rtp://@239.1.2.231:9336
 rtp://@239.1.2.72:8408
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein1_big1.png" group-title="HD Channel",970 Bein1 HD
 rtp://@239.1.1.248:9494
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein2_big1.png" group-title="HD Channel",971 Bein2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein3_big1.png" group-title="HD Channel",971 Bein3 HD
 rtp://@239.1.1.249:9496
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-horizonsport_big.png" group-title="HD Channel",972 Horizon Sports HD
 rtp://@239.1.2.201:9174
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_hd_big.png" group-title="HD Channel",973 SPOTV HD
+rtp://@239.1.1.109:8623
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_hd_big.png" group-title="HD Channel",974 SPOTV 2 HD
+rtp://@239.1.1.196:9145
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fight_big1.png" group-title="HD Channel",976 Fight Sport HD
 rtp://@239.1.2.209:9196
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_big1.png" group-title="HD Channel",977 NBA TV-HD
 rtp://@239.1.2.210:9444
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_golfplus_big1.png" group-title="HD Channel",979 Golf+ HD
-rtp://@239.1.2.214:9214
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_golfplus_big1.png" group-title="HD Channel",979 Golf+ HD
+#rtp://@239.1.2.214:9214
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cnn.png" group-title="HD Channel",982 CNN HD
 rtp://@239.1.1.246:9438
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcid_big.png" group-title="HD Channel",983 CNBC Indonesia HD
@@ -513,8 +531,8 @@ rtp://@239.1.1.215:9264
 rtp://@239.1.2.249:9378
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbofamily.png" group-title="HD Channel",994 HBO Family HD
 rtp://@239.1.2.245:9366
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/red.png" group-title="HD Channel",995 RED HD
-#rtp://@239.1.1.133:8772
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-paramount_big.png" group-title="HD Channel",995 Paramount HD
+rtp://@239.1.1.211:9240
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemax.png" group-title="HD Channel",996 Cinemax HD
 rtp://@239.1.2.247:9372
 
@@ -659,8 +677,8 @@ rtp://@239.1.1.215:9264
 rtp://@239.1.2.249:9378
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbofamily.png" group-title="Movie",994 HBO Family HD
 rtp://@239.1.2.245:9366
-##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/red.png" group-title="Movie",995 RED HD
-#rtp://@239.1.1.133:8772
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-paramount_big.png" group-title="Movie",995 Paramount HD
+rtp://@239.1.1.211:9240
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/cinemax.png" group-title="Movie",996 Cinemax HD
 rtp://@239.1.2.247:9372
 
@@ -670,16 +688,20 @@ rtp://@239.1.2.203:9180
 rtp://@239.1.2.205:9186
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein1_big1.png" group-title="Sport",970 Bein1 HD
 rtp://@239.1.1.248:9494
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein2_big1.png" group-title="Sport",971 Bein2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_bein3_big1.png" group-title="Sport",971 Bein3 HD
 rtp://@239.1.1.249:9496
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_new-horizonsport_big.png" group-title="Sport",972 Horizon Sports HD
 rtp://@239.1.2.201:9174
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv_hd_big.png" group-title="Sport",973 SPOTV HD
+rtp://@239.1.1.109:8623
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_spotv2_hd_big.png" group-title="Sport",974 SPOTV 2 HD
+rtp://@239.1.1.196:9145
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_fight_big1.png" group-title="Sport",976 Fight Sport HD
 rtp://@239.1.2.209:9196
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nba_big1.png" group-title="Sport",977 NBA TV-HD
 rtp://@239.1.2.210:9444
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_golfplus_big1.png" group-title="Sport",979 Golf+ HD
-rtp://@239.1.2.214:9214
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_golfplus_big1.png" group-title="Sport",979 Golf+ HD
+#rtp://@239.1.2.214:9214
 
 ===
 
