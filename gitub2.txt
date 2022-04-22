@@ -1,4 +1,4 @@
-#17April2022
+#22April2022
 
 #EXTM3U
 
@@ -70,6 +70,8 @@ rtp://@239.1.1.72:8406
 rtp://@239.1.1.6:8010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_antara_big1.png" group-title="Local Channel",124 Antara
 rtp://@239.1.1.128:9218
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_ochannel_big.png" group-title="Local Channel",125 O Channel
+rtp://@239.1.1.144:8845
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_dramakorealbs_big.png" group-title="Gen Entertainment",126 Drama Korea LBS
 rtp://@239.1.2.101:9521
@@ -84,7 +86,7 @@ rtp://@239.1.1.212:8967
 rtp://@239.1.2.74:8420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_garudatv_big.png" group-title="Local Channel",133 Garuda TV
 rtp://@239.1.1.164:8965
-#EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel",137 Jowo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_Jowo_channel.png" group-title="Local Channel",137 Jowo
 rtp://@239.1.2.6:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_big.png" group-title="Local Channel",200 Indonesiana TV
 rtp://@239.1.1.206:9199
@@ -137,6 +139,8 @@ rtp://@239.1.1.47:8256
 rtp://@239.1.1.45:8244
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_horee_big.png" group-title="Kids",315 Horee!
 rtp://@239.1.1.68:8382
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_mentaritv_big.png" group-title="Kids",316 Mentari TV
+rtp://@239.1.1.127:8815
 
 ==
 
@@ -199,8 +203,8 @@ rtp://@239.1.1.167:8976
 rtp://@239.1.1.117:8676
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_nhkworld_big1.png" group-title="Gen Entertainment",519 NHK World Premium
 rtp://@239.1.1.165:8964
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_wakuwaku_big.png" group-title="Gen Entertainment",520 Wakuwaku Japan
-rtp://@239.1.1.75:8424
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_wakuwaku_big.png" group-title="Gen Entertainment",520 Wakuwaku Japan
+#rtp://@239.1.1.75:8424
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/starchinese.png" group-title="Gen Entertainment",521 Star Chinese
 rtp://@239.1.1.153:8892
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_kplus_big1.png" group-title="Gen Entertainment",523 K+
@@ -235,8 +239,8 @@ rtp://@239.1.2.196:9406
 rtp://@239.1.2.40:8206
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_chinesedrama_big.png" group-title="Gen Entertainment",542 Chinese Drama
 rtp://@239.1.2.10:8306
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/TVBS_Asia.png" group-title="Gen Entertainment",543 TVBS Asia
-rtp://@239.1.1.114:8658
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/TVBS_Asia.png" group-title="Gen Entertainment",543 TVBS Asia
+#rtp://@239.1.1.114:8658
 
 ==
 
@@ -360,6 +364,13 @@ rtp://@239.1.1.220:9522
 
 ==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvri_big_hd.png" group-title="HD Channel",880 TVRI HD
+rtp://@239.1.1.238:8016
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indosiar_big1.png" group-title="HD Channel",881 Indosiar HD
+rtp://@239.1.1.214:8010
+
+==
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbo.png" group-title="Dolby HD",891 HBO Dolby HD
 rtp://@239.1.2.114:9428
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbosignature.png" group-title="Dolby HD",892 HBO Signature Dolby HD
@@ -397,7 +408,7 @@ rtp://@239.1.2.58:8324
 rtp://@239.1.2.2:7986
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_big.png" group-title="HD Channel",916 Indonesiana TV HD
 rtp://@239.1.1.176:9197
-#EXTINF:-1 tvg-logo="http://10.6.36.38:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="HD Channel",917 Jowo HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_Jowo_channel.png" group-title="HD Channel",917 Jowo HD 
 rtp://@239.1.2.212:9208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_natgeo_big.png" group-title="HD Channel",920 National Geographic HD
 rtp://239.1.1.243:9432
@@ -467,8 +478,8 @@ rtp://@239.1.2.211:9202
 rtp://@239.1.1.231:8062
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/kbsworld.png" group-title="HD Channel",958 KBS World HD
 rtp://@239.1.1.13:8052
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_wakuwaku_big.png" group-title="HD Channel",959 WakuWaku Japan HD
-rtp://@239.1.1.244:9434
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_wakuwaku_big.png" group-title="HD Channel",959 WakuWaku Japan HD
+#rtp://@239.1.1.244:9434
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_axn_big.png" group-title="HD Channel",960 AXN HD
 rtp://@239.1.1.245:9436
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_blueantext_big.png" group-title="HD Channel",961 Rock Extreme HD
@@ -538,6 +549,10 @@ rtp://@239.1.2.247:9372
 
 ===
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_tvri_big_hd.png" group-title="Local Channel",880 TVRI HD
+rtp://@239.1.1.238:8016
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indosiar_big1.png" group-title="Local Channel",881 Indosiar HD
+rtp://@239.1.1.214:8010
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/ruangtrampil.png" group-title="Local Channel",900 Ruang Trampil HD
 rtp://@239.1.1.111:8640
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_seatoday_big.png" group-title="Local Channel",907 SEA Today HD
@@ -560,7 +575,7 @@ rtp://@239.1.2.58:8324
 rtp://@239.1.2.2:7986
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_indonesiana_big.png" group-title="Local Channel",916 Indonesiana TV HD
 rtp://@239.1.1.176:9197
-#EXTINF:-1 tvg-logo="http://10.6.36.38:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel", 917 Jowo HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_Jowo_channel.png" group-title="Local Channel", 917 Jowo HD
 rtp://@239.1.2.212:9208
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo_cnbcid_big.png" group-title="Local Channel",983 CNBC Indonesia HD
 rtp://@239.1.2.94:9448
