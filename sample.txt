@@ -1,8 +1,0 @@
-#EXTM3U
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/logo-sctv-big1.png" group-title="Local Channel",107 SCTV
-rtp://@239.1.1.21:8100
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/chae48/woyeoye/main/logo/hbo.png" group-title="Dolby HD",935 HBO Dolby HD
-rtp://@239.1.2.114:9428
